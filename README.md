@@ -7,8 +7,6 @@
 #Team Members
 
 * Karthik Rammoorthy - B00790749 - kr536074@dal.ca
-* Vidhyashree Boopathy - B00790060 - vd896908@dal.ca
-* Selvapriya Sampath - B00769290 - sl591381@dal.ca
 * Sricharan Ramasamy - B00790079 - sr721595@dal.ca
 
 ## Libraries

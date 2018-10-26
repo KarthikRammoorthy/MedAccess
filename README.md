@@ -7,7 +7,7 @@
 #Team Members
 
 * Karthik Rammoorthy - B00790749 - kr536074@dal.ca
-* Sricharan Ramasamy - B00790079 - sr721595@dal.ca
+
 
 ## Libraries
 
